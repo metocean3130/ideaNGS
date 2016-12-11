@@ -1,0 +1,2 @@
+# ideaNGS
+for NGS repository
